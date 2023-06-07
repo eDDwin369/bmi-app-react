@@ -1,0 +1,17 @@
+.back1{
+    background-color: aqua;
+    background-color: white;
+    text-align: center;
+    width: 350px;
+    margin-left: 130px;
+    margin-top: 30px;
+    box-shadow: 30px 30px 40px 0px  rgb(23, 97, 172);
+    border-radius: 30px;
+    height: 220px;
+}
+
+.input{
+    border-radius: 10px;
+    border: solid 2px black;
+}
+
